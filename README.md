@@ -18,10 +18,7 @@ Installation
 
 Usage
 
-    Run the main.py script using Python.
-
-
-    python main.py
+    Run the script using Python.
 
     Once the application window opens, you can:
         Enter text descriptions in the provided input box.
